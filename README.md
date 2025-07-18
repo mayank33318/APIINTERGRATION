@@ -1,4 +1,4 @@
-# APIINTERGRATION
+# API INTERGRATION
 API-INTEGRATION-AND-DATA-VISUALIZATION
 COMPANY : CODTECH IT SOLUTIONS
 
@@ -89,3 +89,4 @@ Run the Script:
 
 python weather_dashboard.py
 After running the script, a bar chart displaying the temperatures will appear, and an image file named weather_dashboard.png will be saved in the same directory.
+<img width="1040" height="630" alt="Image" src="https://github.com/user-attachments/assets/f966cf9b-4900-4bcd-b0c0-54477636d493" />
